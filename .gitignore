@@ -1,0 +1,6 @@
+# Nodejs
+node_modules
+
+# environment variables
+.env
+coverage
